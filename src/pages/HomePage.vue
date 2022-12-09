@@ -1,13 +1,10 @@
 <template>
   <div class="home flex-grow-1 d-flex flex-column align-items-center justify-content-center">
     <div class="home-card p-5 bg-white rounded elevation-3">
-      <img
-        src="https://bcw.blob.core.windows.net/public/img/8600856373152463"
-        alt="CodeWorks Logo"
-        class="rounded-circle"
-      >
+      <img src="https://user-images.githubusercontent.com/77174166/129934248-fe999e3e-b167-485c-9457-663c95329182.png"
+        alt="CodeWorks Logo" class="rounded-circle">
       <h1 class="my-5 bg-dark text-white p-3 rounded text-center">
-        Vue 3 Starter
+        Welcome to Greg's List!
       </h1>
     </div>
   </div>
